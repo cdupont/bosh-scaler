@@ -27,3 +27,7 @@ listeners:
     ui:
       enable: true
       port: 8888
+
+logging:
+    file: log/scaler.log
+    level: info
